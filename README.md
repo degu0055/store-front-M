@@ -22,4 +22,4 @@ The store-front is the Vue.js frontend that allows users to select products and 
    ```bash
    npm run serve
 The store-front will be running on http://localhost:8080.
-# store-front-M
+# store-front-algonquin-pet-store
